@@ -10,9 +10,7 @@
   "paletteId": "",
   "persistent": false,
   "collisionGroup": "2",
-  "collisionExtraFlags": [
-    "solid"
-  ],
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "_index": 2,
   "script": [],
@@ -47,7 +45,7 @@
           "type": "number",
           "value": 0
         },
-        "__collapse": true
+        "__collapse": false
       },
       "id": "d7de5347-d530-45f4-80a8-7766be71c976"
     },
