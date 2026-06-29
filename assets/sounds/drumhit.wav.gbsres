@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "40ee2286-27ec-423e-8209-8bfadf1a3491",
+  "name": "drumhit.wav",
+  "symbol": "sound_drumhit_wav",
+  "type": "wav",
+  "filename": "drumhit.wav"
+}

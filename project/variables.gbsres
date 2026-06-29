@@ -1,0 +1,123 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "ad0173a2-fb2b-4284-aefc-caaaabe018d9__L1",
+      "name": "state",
+      "symbol": "var_state",
+      "flags": {
+        "flag1": "visible",
+        "flag2": "damage1",
+        "flag3": "damage2",
+        "flag4": "damage3"
+      }
+    },
+    {
+      "id": "0",
+      "name": "Tree HP",
+      "symbol": "var_tree_hp"
+    },
+    {
+      "id": "ad0173a2-fb2b-4284-aefc-caaaabe018d9__L2",
+      "name": "emerge_time",
+      "symbol": "var_emerge_time_0"
+    },
+    {
+      "id": "ad0173a2-fb2b-4284-aefc-caaaabe018d9__L3",
+      "name": "damage1_time",
+      "symbol": "var_damage1_time"
+    },
+    {
+      "id": "ad0173a2-fb2b-4284-aefc-caaaabe018d9__L4",
+      "name": "damage2_time",
+      "symbol": "var_damage2_time"
+    },
+    {
+      "id": "ad0173a2-fb2b-4284-aefc-caaaabe018d9__L5",
+      "name": "damage3_time",
+      "symbol": "var_damage3_time"
+    },
+    {
+      "id": "1",
+      "name": "GameTimer",
+      "symbol": "var_gametimer"
+    },
+    {
+      "id": "28395849-e713-4675-94d7-1731d3768adc__L0",
+      "name": "Health Frame",
+      "symbol": "var_health_frame_0"
+    },
+    {
+      "id": "2",
+      "name": "TimerFlag",
+      "symbol": "var_timerflag"
+    },
+    {
+      "id": "73a2d376-6661-4b32-b659-67254e95072d__L1",
+      "name": "LastTimerValue",
+      "symbol": "var_lasttimervalue_0",
+      "flags": {
+        "flag1": "visible",
+        "flag2": "damage1",
+        "flag3": "damage2",
+        "flag4": "damage3"
+      }
+    },
+    {
+      "id": "73a2d376-6661-4b32-b659-67254e95072d__L2",
+      "name": "damage",
+      "symbol": "var_damage"
+    },
+    {
+      "id": "73a2d376-6661-4b32-b659-67254e95072d__L3",
+      "name": "emerge_time",
+      "symbol": "var_emerge_time"
+    },
+    {
+      "id": "73a2d376-6661-4b32-b659-67254e95072d__L4",
+      "name": "damage2_time",
+      "symbol": "var_damage2_time_0"
+    },
+    {
+      "id": "73a2d376-6661-4b32-b659-67254e95072d__L5",
+      "name": "damage3_time",
+      "symbol": "var_damage3_time_0"
+    },
+    {
+      "id": "3",
+      "name": "Blight Count",
+      "symbol": "var_blight_count"
+    },
+    {
+      "id": "4",
+      "name": "Bug Count",
+      "symbol": "var_bug_count"
+    },
+    {
+      "id": "5",
+      "name": "Blight Low Damage",
+      "symbol": "var_blight_low_damage"
+    },
+    {
+      "id": "6",
+      "name": "Blight Med Damage",
+      "symbol": "var_blight_med_damage"
+    },
+    {
+      "id": "7",
+      "name": "Blight High Damage",
+      "symbol": "var_blight_high_damage"
+    },
+    {
+      "id": "73a2d376-6661-4b32-b659-67254e95072d__L0",
+      "name": "which_blight",
+      "symbol": "var_which_blight"
+    },
+    {
+      "id": "28395849-e713-4675-94d7-1731d3768adc__L1",
+      "name": "which_blight",
+      "symbol": "var_which_blight_0"
+    }
+  ],
+  "constants": []
+}

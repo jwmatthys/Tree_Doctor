@@ -1,0 +1,51 @@
+{
+  "_resourceType": "actor",
+  "id": "44920885-20d5-48e1-9130-1452832cf4e2",
+  "name": "Blight2",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "e7082507-6bbf-4ee6-b215-9bd866befe05",
+  "prefabId": "73a2d376-6661-4b32-b659-67254e95072d",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {
+    "d7de5347-d530-45f4-80a8-7766be71c976": {
+      "id": "d7de5347-d530-45f4-80a8-7766be71c976",
+      "args": {
+        "value": {
+          "type": "number",
+          "value": 1
+        }
+      }
+    },
+    "8649647f-c6ac-4edf-aa75-45363efaf758": {
+      "id": "8649647f-c6ac-4edf-aa75-45363efaf758",
+      "args": {
+        "timer": 3
+      }
+    },
+    "8642d1dc-9e10-4eab-bb5d-f48c4196d0a6": {
+      "id": "8642d1dc-9e10-4eab-bb5d-f48c4196d0a6",
+      "args": {
+        "timer": 3
+      }
+    }
+  },
+  "symbol": "actor_4",
+  "script": [],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 22,
+  "y": 26,
+  "_index": 4
+}

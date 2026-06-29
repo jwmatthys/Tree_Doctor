@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "26a23e3d-6102-4276-b9ea-a792681d1eb0",
+  "name": "Hamster",
+  "symbol": "sprite_hamster",
+  "states": [
+    {
+      "id": "12d40269-0acf-491f-b9dd-7a3d535a9dad",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "33c9da8b-c40c-4d9d-8e45-12cfe66de925",
+          "frames": [
+            {
+              "id": "fbca6db2-fcff-41b5-84a3-dd56ba3a26cf",
+              "tiles": [
+                {
+                  "id": "bbb4e168-69f1-475f-aa2c-cd4126837894",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "6b073a9e-85dc-4641-add6-7914123a3aaa",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "241c4edb-e9bc-40a5-9569-1ea72637a24f",
+              "tiles": [
+                {
+                  "id": "772a4817-ae3f-4883-b68f-acec007f788e",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "c64931f0-8327-45ce-8bb5-6ab3c23e573f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a7cebee9-b3f5-4433-8bab-363a2c1810a4",
+          "frames": [
+            {
+              "id": "e0218c62-4980-44a5-b6a5-c62bc401b9d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "092672d5-e101-4069-95bb-3e2b1d308d87",
+          "frames": [
+            {
+              "id": "763b275a-706d-4f04-a9e1-7bed747921b2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b70f7900-d5fd-4bbd-b36a-717c6fff812e",
+          "frames": [
+            {
+              "id": "c585ee19-7e75-43a1-8ca6-5a893c50a651",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "25ea1252-63c0-4f6b-bdd3-025c5148d399",
+          "frames": [
+            {
+              "id": "db8fde5f-c86d-49f7-a663-642725ea6441",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6fab2d37-96e1-4b2c-9508-593a9c7a570c",
+          "frames": [
+            {
+              "id": "415c3b6e-d4b2-45c9-b7e6-b4f3ab8d6483",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f7d5b677-a4e8-45bb-b85a-08bd4fcbe08b",
+          "frames": [
+            {
+              "id": "811ce184-7a01-480d-ae35-464c117b73bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6041e5cb-193f-424f-abd9-ee4758a4c911",
+          "frames": [
+            {
+              "id": "230083fe-d48e-4e7e-8007-dedd2f207e76",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Hamster.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "d2870be63dc6b9b5c996b18d1a949f7af63b8697"
+}

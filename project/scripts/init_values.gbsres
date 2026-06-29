@@ -1,0 +1,91 @@
+{
+  "_resourceType": "script",
+  "id": "fc285a4f-fb8b-4de4-8ab5-dc9deea95b2d",
+  "name": "init_values",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_2",
+  "script": [
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "0",
+        "value": {
+          "type": "number",
+          "value": 255
+        }
+      },
+      "id": "53ac0394-c032-480b-95ac-7dac95f24e4b"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "1",
+        "value": {
+          "type": "number",
+          "value": 0
+        }
+      },
+      "id": "913c71ac-f916-4ead-a6fe-939f204700ad"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "5",
+        "value": {
+          "type": "number",
+          "value": 3
+        }
+      },
+      "id": "8be09418-bbd4-426a-8963-eb2ab283c9c0"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "6",
+        "value": {
+          "type": "number",
+          "value": 6
+        }
+      },
+      "id": "8a97cbc4-cdd5-46b1-9d7d-b2ffc9aaf25d"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "7",
+        "value": {
+          "type": "number",
+          "value": 10
+        }
+      },
+      "id": "55076442-1fd0-4fef-9b93-9c1586ec4406"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Help! My tree has\nBLIGHT!"
+        ],
+        "__section": "presets",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "81e0773a-e144-4c03-af4a-27e11ecb4fe2"
+    }
+  ]
+}

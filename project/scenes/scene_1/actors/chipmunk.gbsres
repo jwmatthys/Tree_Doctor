@@ -1,0 +1,94 @@
+{
+  "_resourceType": "actor",
+  "id": "ca710707-3636-48a5-a37a-2193fd266b51",
+  "name": "Chipmunk",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "52915557-9ea8-48dd-a168-d4a6e7ddd88c",
+  "prefabId": "63c6d1d1-5307-47b7-8606-c4a4c6c01c42",
+  "direction": "right",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "1",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_0",
+  "script": [
+    {
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "crash",
+        "priority": "medium",
+        "pitch": 4,
+        "frequency": 200,
+        "duration": 0.25,
+        "wait": false,
+        "effect": 0,
+        "__collapse": false
+      },
+      "id": "d966f193-9ebd-4f07-8371-46f5614bc3c7"
+    },
+    {
+      "command": "EVENT_PLATFORMER_STATE_SET",
+      "args": {
+        "state": "knockback"
+      },
+      "id": "69821f36-9b43-4418-b215-fc35aa7dea85"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [
+    {
+      "command": "EVENT_ACTOR_MOVE_TO",
+      "args": {
+        "__section": "movement",
+        "actorId": "$self$",
+        "x": {
+          "type": "number",
+          "value": 17
+        },
+        "y": {
+          "type": "number",
+          "value": 24
+        },
+        "collideWith": [
+          "walls"
+        ],
+        "lockDirection": [],
+        "moveType": "horizontal"
+      },
+      "id": "287b4fa2-eb3d-4e09-9475-147a73ed5f41"
+    },
+    {
+      "command": "EVENT_ACTOR_MOVE_TO",
+      "args": {
+        "__section": "movement",
+        "actorId": "$self$",
+        "x": {
+          "type": "number",
+          "value": 13
+        },
+        "y": {
+          "type": "number",
+          "value": 24
+        },
+        "collideWith": [
+          "walls"
+        ],
+        "lockDirection": [],
+        "moveType": "horizontal"
+      },
+      "id": "2b3290fb-199b-4230-a55d-e1f327730374"
+    }
+  ],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 13,
+  "y": 24,
+  "_index": 0
+}

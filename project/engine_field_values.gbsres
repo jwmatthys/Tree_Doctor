@@ -1,0 +1,41 @@
+{
+  "_resourceType": "engineFieldValues",
+  "engineFieldValues": [
+    {
+      "id": "fade_style",
+      "value": 0
+    },
+    {
+      "id": "FEAT_PLATFORM_COYOTE_TIME",
+      "value": 1
+    },
+    {
+      "id": "FEAT_PLATFORM_DROP_THROUGH",
+      "value": 1
+    },
+    {
+      "id": "SHOOTER_MOVEMENT_TYPE",
+      "value": "MOVEMENT_TYPE_LOCK_PERPENDICULAR"
+    },
+    {
+      "id": "SHOOTER_TRIGGER_ACTIVATION",
+      "value": "ON_PLAYER_COLLISION"
+    },
+    {
+      "id": "SHOOTER_WALL_COLLISION_GROUP",
+      "value": "COLLISION_GROUP_NONE"
+    },
+    {
+      "id": "plat_dec",
+      "value": 491
+    },
+    {
+      "id": "plat_jump_vel",
+      "value": 12288
+    },
+    {
+      "id": "FEAT_PLATFORM_LADDERS_JUMP",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_resourceType": "script",
+  "id": "3adf95ee-0ca3-4cb4-9bd6-6f7d7fa2cfe6",
+  "name": "init_shears",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_1",
+  "script": [
+    {
+      "command": "EVENT_LOAD_PROJECTILE_SLOT",
+      "args": {
+        "__section": "projectile",
+        "slot": 0,
+        "spriteSheetId": "e240dbcc-34c2-4c83-86cf-8f9d5f3d7ae2",
+        "spriteStateId": "",
+        "speed": 0.5,
+        "animSpeed": 3,
+        "lifeTime": 0.4,
+        "initialOffset": 8,
+        "loopAnim": true,
+        "destroyOnHit": false,
+        "collisionGroup": "2",
+        "collisionMask": [
+          "2"
+        ]
+      },
+      "id": "0993e197-0d52-4fd6-a18c-baa3db1d5171"
+    },
+    {
+      "command": "EVENT_SET_INPUT_SCRIPT",
+      "args": {
+        "input": [
+          "b"
+        ],
+        "override": true,
+        "__scriptTabs": "press",
+        "__collapse": false
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE_SLOT",
+            "args": {
+              "__section": "source",
+              "actorId": "$self$",
+              "x": 0,
+              "y": 0,
+              "directionType": "actor",
+              "otherActorId": "$self$",
+              "direction": "right",
+              "angle": 0,
+              "angleVariable": "0",
+              "targetActorId": "$self$",
+              "slot": 0,
+              "__collapse": false
+            },
+            "id": "f52c9360-fee2-4c2d-a1b5-cefe94b90f25"
+          }
+        ]
+      },
+      "id": "1d2c07ed-f891-44f5-b12a-7a84e0053c15"
+    }
+  ]
+}

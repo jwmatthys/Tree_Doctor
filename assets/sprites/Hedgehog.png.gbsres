@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "5852602e-5195-4cce-9bd0-954f10d984f3",
+  "name": "Hedgehog",
+  "symbol": "sprite_hedgehog",
+  "states": [
+    {
+      "id": "84180ba9-1814-467e-8677-6de7518e7071",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "c1554353-febb-4994-a219-b359e1544787",
+          "frames": [
+            {
+              "id": "c4564a83-be42-48f7-b09a-720d1c7c0220",
+              "tiles": [
+                {
+                  "id": "fed91712-c7fb-45e6-9dcc-160d57326c07",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "d0f5de36-9585-49b1-b2cd-ec60316a6487",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "019e5e69-5c58-40c9-ac1e-985f6a947a8d",
+              "tiles": [
+                {
+                  "id": "107f46f4-dd8a-4b3f-9a3d-a3499c8a392c",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "c12140eb-8909-42ba-a12d-664fd084b29f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a41c53b4-c08a-47e3-9bcb-7758aa1231bf",
+          "frames": [
+            {
+              "id": "83aa4fb5-646c-48b2-b69a-6079f5510d20",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d8cdd9cb-7846-498f-a001-3c6c63c4d45d",
+          "frames": [
+            {
+              "id": "e3988eb3-8acf-4950-9b6f-2230408475a5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6eac7541-fa76-40ff-b5f5-6ff2b65f4ad0",
+          "frames": [
+            {
+              "id": "ae3f01fe-61a1-42fc-9a71-af1b7a2fae7b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b3546a9c-c44b-4ee5-b54c-b731f6e33fb0",
+          "frames": [
+            {
+              "id": "f46af9b8-5e26-4cad-a922-eba6932b0346",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d926f83e-3d5c-47dc-ba44-788e7171858a",
+          "frames": [
+            {
+              "id": "1453f239-afad-4a8f-b5fb-557bcb44b685",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "701edefa-2c11-405d-bb2e-78777385fe5a",
+          "frames": [
+            {
+              "id": "94574706-eb7a-477c-ad38-e1f119664dd9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27f331c1-adc3-4671-835a-b048cdb91f97",
+          "frames": [
+            {
+              "id": "9dcf806c-20b7-4677-a80c-c9f24d9e7a63",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": -1,
+  "boundsY": -2,
+  "boundsWidth": 18,
+  "boundsHeight": 10,
+  "animSpeed": 15,
+  "filename": "Hedgehog.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "ba9b6c1f3a9d2e75f248be7ac8f4abc2035a8e71"
+}
