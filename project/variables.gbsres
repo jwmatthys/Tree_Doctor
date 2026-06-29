@@ -117,6 +117,57 @@
       "id": "28395849-e713-4675-94d7-1731d3768adc__L1",
       "name": "which_blight",
       "symbol": "var_which_blight_0"
+    },
+    {
+      "id": "67e11b00-e4ee-4eaf-9a4e-74fd4cc8d10d__L0",
+      "name": "which_blight",
+      "symbol": "var_which_blight"
+    },
+    {
+      "id": "67e11b00-e4ee-4eaf-9a4e-74fd4cc8d10d__L1",
+      "name": "LastTimerValue",
+      "symbol": "var_lasttimervalue_0",
+      "flags": {
+        "flag1": "visible",
+        "flag2": "damage1",
+        "flag3": "damage2",
+        "flag4": "damage3"
+      }
+    },
+    {
+      "id": "67e11b00-e4ee-4eaf-9a4e-74fd4cc8d10d__L2",
+      "name": "damage",
+      "symbol": "var_damage"
+    },
+    {
+      "id": "67e11b00-e4ee-4eaf-9a4e-74fd4cc8d10d__L3",
+      "name": "emerge_time",
+      "symbol": "var_emerge_time"
+    },
+    {
+      "id": "67e11b00-e4ee-4eaf-9a4e-74fd4cc8d10d__L4",
+      "name": "damage2_time",
+      "symbol": "var_damage2_time_0"
+    },
+    {
+      "id": "67e11b00-e4ee-4eaf-9a4e-74fd4cc8d10d__L5",
+      "name": "damage3_time",
+      "symbol": "var_damage3_time_0"
+    },
+    {
+      "id": "8",
+      "name": "Worm Low Damage",
+      "symbol": "var_worm_low_damage"
+    },
+    {
+      "id": "511",
+      "name": "Worm Med Damage",
+      "symbol": "var_worm_med_damage"
+    },
+    {
+      "id": "510",
+      "name": "Worm High Damage",
+      "symbol": "var_worm_high_damage"
     }
   ],
   "constants": []
